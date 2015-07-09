@@ -1,0 +1,2 @@
+ [self.zoomImageView setImageArray:图片数组 artId:nil];
+  self.view addSubview:self.zoomImageView];
